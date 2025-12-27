@@ -9,7 +9,7 @@ After creating my first project which was guided by my teacher, he instructed me
 3. The sprite in Snap starts at an angle which resulted in it drawing a diamond rather than square, so I added a point in direction command set to 90 degrees so it would start straight. It now drew a proper square.
 4. I knew my teacher had recommended trying a square and a rectangle. I didn't want to make to separate files for people to download just for a rectangle, so I built it into the script! I added an ask block to ask if you'd like to draw a rectangle or square, which is something I used in my first project. I then added an if block that checks to see if your answer was S or R. If it was S, it draws a square. If it was R, it draws a rectangle. If it's neither, it tells you to only type S or R and to restart the program.
 
-All of this took me about an hour. It was mainly part 4 that gave me a hold-up since I was experimenting a little. That's it! Thank you for reading this.
+All of this took me about an hour. It was mainly part 4 that gave me a hold-up since I was experimenting a little. I probably could've done better with how I structured the blocks, but I'm still new. That's it! Thank you for reading this.
 
 #### How to Run it
 If you see this and you'd like to view my project follow these steps:
