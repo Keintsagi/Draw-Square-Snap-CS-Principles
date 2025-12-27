@@ -2,7 +2,7 @@
 My second Snap! project for CS Principles. This is a simple algorithm made in Snap that draws a square.
 
 #### How I Made it
-After creating my first project which was guided by my teacher, he instructed me to create a program via Snap! that draws a square using the pen blocks without being guided like the first project. He also recommened trying a rectangle. I've dabbled in Scratch before so I already knew how to do this. A pen down at Start, add a repeat that repeats 4 times for each side of the square, activate the pen, move a certain amount, and then rotate 90 degrees to continue to the next side. Finally a pen up outside of the loop to stop the drawing. This program did what my teacher instructed but... it was kind of boring and I wanted to challenge myself. 
+After creating my first project which was guided by my teacher, he instructed me to create a program via Snap! that draws a square using the pen blocks. He also recommended trying a rectangle. I've dabbled in Scratch before so I already knew how to do this. A pen down at Start, add a repeat that repeats 4 times for each side of the square, activate the pen, move a certain amount, and then rotate 90 degrees to continue to the next side. Finally a pen up outside of the loop to stop the drawing. This program did what my teacher instructed but... it was kind of boring and I wanted to challenge myself. 
 
 1. I first added a wait function between the lines drawn so you could see the square being drawn (rather than it near instantaneously appearing). 
 2. I noticed in Snap the board doesn't clear when you stop the program, so I then found out about the clear function and added it just below the on start block. Now the program cleared the lines on start to prevent line clutter.
