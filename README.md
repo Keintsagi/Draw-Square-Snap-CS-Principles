@@ -14,7 +14,7 @@ All of this took me about an hour. It was mainly part 4 that gave me a hold-up s
 #### How to Run it
 If you see this and you'd like to view my project follow these steps:
 
-1. Download the "Draw Square.xml" file in this repository.
+1. Download the "Draw Square (CS Principles).xml" file in this repository.
 2. Go to https://snap.berkeley.edu/
 3. Press the Run Snap! Now button.
 
